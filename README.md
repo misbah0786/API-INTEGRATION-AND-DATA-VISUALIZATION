@@ -2,15 +2,17 @@
 
 
 COMPANY : CODETECH IT SOLUTIONS 
+
 NAME : MISBAH FIRDOSE H 
+
 INTERN ID :CT04DZ187
-DOMAIN : PYTHON PROGRAMMING 
+
+DOMAIN : PYTHON PROGRAMMING
+
 DURATION : 4 WEEKS
+
 MENTOR : NEELA SANTOSH 
 
-Here is a detailed **description (more than 500 words)** of your weather dashboard Python project:
-
----
 
 ### 🌤️ **Weather Dashboard Using OpenWeatherMap API and Python**
 
