@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Your API key (paste yours here)
-API_KEY = "42a059eedeac585062e58395422227c9"  # ⬅️ Replace with your actual API key
+API_KEY = "Replace with your actual API key"  # ⬅️ Replace with your actual API key
 CITY = "Bengaluru"
 URL = f"http://api.openweathermap.org/data/2.5/forecast?q={CITY}&appid={API_KEY}&units=metric"
 
